@@ -8,7 +8,7 @@ import styles from './App.module.css';
 const posts = [{
   id: 1,
   author:{
-    avatarUrl: 'https://github.com/walacefelix.png',
+    avatarUrl: 'https://github.com/walacefex.png',
     name: 'Walace Felix',
     role: 'Software Engineer'
   },
